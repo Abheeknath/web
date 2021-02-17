@@ -1,1 +1,21 @@
-
+h1, h2, h3, ul{
+	font-family: 'Lato', sans-serif;
+    font-family: 'Playfair Display', serif;
+	color: #525D98;
+}
+h2, h3 {
+  text-align: center;	
+}
+h1, ul, li{
+	margin-left: 60px;
+}
+img {
+  display: block;
+  margin: 0 auto;
+  size: 400px; 
+}
+p{
+  font-family: 'Benne', serif;	
+  margin-left: 60px;
+  margin-right: 60px;
+}
