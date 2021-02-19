@@ -3,8 +3,12 @@ h1, h2, h3, ul{
     font-family: 'Playfair Display', serif;
 	color: #525D98;
 }
+}
 h1, ul, li{
 	margin-left: 60px;
+}
+h1, h2, h3 {
+  margin-left: 10px;	
 }
 img {
   display: block;
@@ -13,6 +17,6 @@ img {
 }
 p{
   font-family: 'Benne', serif;	
-  margin-left: 60px;
+  margin-left: 40px;
   margin-right: 60px;
 }
