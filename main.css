@@ -3,9 +3,6 @@ h1, h2, h3, ul{
     font-family: 'Playfair Display', serif;
 	color: #525D98;
 }
-h2, h3 {
-  text-align: center;	
-}
 h1, ul, li{
 	margin-left: 60px;
 }
